@@ -26,6 +26,7 @@
 #### 4. [Recurrent Neural Networks](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/tree/master/Recurrent%20Neural%20Networks%20(RNN))<br>
 #### 5. [Generative Adversarial Networks](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/tree/master/Generative%20Adversarial%20Networks%20(GAN))<br>
 #### 6. [Deploying a Trained model via AWS SageMaker](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/tree/master/Deploy%20via%20AWS%20SageMaker)<br>
+<br>
 
 _**I had been lucky enough to get a month free trial for Udacity Deep Learning Nanodegree.Starting from 30th of April, I completed each and every workspace, and submitted each and every project on 26th of May.**_
 
@@ -33,7 +34,7 @@ _**I had been lucky enough to get a month free trial for Udacity Deep Learning N
 ![Udacity Deep Learning Certificate](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/blob/master/udacity_certificate.jpg)
 
 
-## Thank you Udacity for this wonderful experience.
+### Thank you Udacity for this wonderful experience.
 <br>
 <br>
 
