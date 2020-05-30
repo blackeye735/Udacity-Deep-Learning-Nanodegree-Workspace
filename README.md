@@ -34,7 +34,7 @@ _**I had been lucky enough to get a month free trial for Udacity Deep Learning N
 ## The reward that I got is:-
 ![Udacity Deep Learning Certificate](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/blob/master/udacity_certificate.jpg)
 
-### You can have a look at [Udacity_DLND_blackeye735](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/blob/master/udacity_certificate.pdf).
+### You can have a look at [Udacity_DLND_blackeye735](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/blob/master/udacity_certificate.pdf) or view it directly from [UDACITY](https://confirm.udacity.com/RUFGLMAG) website.
 <br>
 
 ### Thank you Udacity for this wonderful experience.
