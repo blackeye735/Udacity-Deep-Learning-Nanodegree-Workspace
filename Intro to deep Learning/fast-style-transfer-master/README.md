@@ -109,3 +109,6 @@ You will need the following to run the above:
 
 ### Related Work
 - Michael Ramos ported this network [to use CoreML on iOS](https://medium.com/@rambossa/diy-prisma-fast-style-transfer-app-with-coreml-and-tensorflow-817c3b90dacd)
+
+### Uploaded with love by [blackeye735](https://github.com/blackeye735)
+The works and workspaces are [Fast Style Transfer](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/tree/master/Intro%20to%20deep%20Learning/fast-style-transfer-master)
