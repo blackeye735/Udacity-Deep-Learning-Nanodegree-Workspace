@@ -110,6 +110,5 @@ INITIAL_EPSILON = 0.1
 ## Disclaimer
 This work is highly based on the following repos:
 
-1. [sourabhv/FlapPyBird] (https://github.com/sourabhv/FlapPyBird)
+1. [blackeye735/FlappyBird] (https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/tree/master/Intro%20to%20deep%20Learning/Deep%20Learning%20Flappy%20Bird)
 2. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
-
