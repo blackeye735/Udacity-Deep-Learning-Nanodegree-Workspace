@@ -41,7 +41,7 @@ _**I had been lucky enough to get a month free trial for Udacity Deep Learning N
 <br>
 <br>
 
-#### _MADE WITH LOVE BY [ARGHO CHAKRABORTY](https://github.com/blackeye735)_ [![Maintain](https://img.shields.io/badge/Maintainer-blackeye735-lightgrey)](https://github.com/blackeye735)
+### _MADE WITH LOVE BY [ARGHO CHAKRABORTY](https://github.com/blackeye735)_ [![Maintain](https://img.shields.io/badge/Maintainer-blackeye735-lightgrey)](https://github.com/blackeye735)
 <br>
 
 **The codes are not for copying.It ensures copyright issues on the repository.Plagarism is not at all entertained.For further details, check our [CODE OF CONDUCT](https://github.com/blackeye735/Udacity-Deep-Learning-Nanodegree-Workspace/blob/master/CODE_OF_CONDUCT.md).**
